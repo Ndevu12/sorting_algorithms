@@ -1,5 +1,5 @@
 # Sorting algorithms & Big O
-
+# THIS IS A TEAM PROJECT. WE DID IT IN A TEAM OF TWO: ME & Jackueline NYANGANJOKI
 
 # Learning Objectives
 
